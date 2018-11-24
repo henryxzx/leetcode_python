@@ -4,9 +4,11 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | 001  | [两数之和](https://leetcode-cn.com/problems/two-sum/)        | [python](https://github.com/henryxzx/leetcode_python/blob/master/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/twosum.py) | Easy   |
 | 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6/treeDepth.py) | Easy   |
+| 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/226.%20翻转二叉树/invert-binary-tree.py) | Easy   |
 | 461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/461.%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB/distance.py) | Easy   |
 | 476  | [数字的补数](https://leetcode-cn.com/problems/number-complement/submissions/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/476.%20数字的补数/complement.py) | Easy   |
 | 535  | [TinyURL的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/submissions/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/535.TinyURL%20%E7%9A%84%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86/encode-and-decode-tinyurl.py) | Medium |
+| 617  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | python                                                       | Easy   |
 | 657  | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/657.%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E5%90%A6%E8%BF%94%E5%9B%9E%E5%8E%9F%E7%82%B9/robot.py) | Easy   |
 | 709  | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/709.%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%B0%8F%E5%86%99%E5%AD%97%E7%AC%A6/to.py) | Easy   |
 | 771  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/771.%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4/stone.py) | Easy   |
