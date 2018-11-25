@@ -11,6 +11,7 @@
 | 617  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | python                                                       | Easy   |
 | 657  | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/657.%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E5%90%A6%E8%BF%94%E5%9B%9E%E5%8E%9F%E7%82%B9/robot.py) | Easy   |
 | 709  | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/709.%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%B0%8F%E5%86%99%E5%AD%97%E7%AC%A6/to.py) | Easy   |
+| 728  | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/) | python                                                       | Easy   |
 | 771  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/771.%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4/stone.py) | Easy   |
 | 804  | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/804.%20唯一摩尔斯密码词/morse_code.py) | Easy   |
 | 832  | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/832.%E7%BF%BB%E8%BD%AC%E5%9B%BE%E5%83%8F/image.py) | Easy   |
