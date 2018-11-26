@@ -5,6 +5,8 @@
 | 001  | [两数之和](https://leetcode-cn.com/problems/two-sum/)        | [python](https://github.com/henryxzx/leetcode_python/blob/master/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/twosum.py) | Easy   |
 | 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6/treeDepth.py) | Easy   |
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/226.%20翻转二叉树/invert-binary-tree.py) | Easy   |
+| 292  | [Nim游戏](https://leetcode-cn.com/problems/nim-game/)        | python                                                       | Easy   |
+| 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | python                                                       | Easy   |
 | 461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/461.%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB/distance.py) | Easy   |
 | 476  | [数字的补数](https://leetcode-cn.com/problems/number-complement/submissions/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/476.%20数字的补数/complement.py) | Easy   |
 | 535  | [TinyURL的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/submissions/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/535.TinyURL%20%E7%9A%84%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86/encode-and-decode-tinyurl.py) | Medium |
@@ -19,8 +21,6 @@
 | 905  | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/905.%E6%8C%89%E5%A5%87%E6%95%B0%E5%81%B6%E6%95%B0%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84/sort.py) | Easy   |
 | 922  | [按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/922.%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84II/sortArrayByParityII.py) | Easy   |
 | 929  | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/929.%E7%8B%AC%E7%89%B9%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80/email.py) | Easy   |
-| 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | python                                                       | Easy   |
-|      |                                                              |                                                              |        |
 
 
 
