@@ -9,6 +9,7 @@
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | python                                                       | Easy   |
 | 461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/461.%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB/distance.py) | Easy   |
 | 476  | [数字的补数](https://leetcode-cn.com/problems/number-complement/submissions/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/476.%20数字的补数/complement.py) | Easy   |
+| 500  | [键盘行](https://leetcode-cn.com/problems/keyboard-row/)     | python                                                       | Easy   |
 | 535  | [TinyURL的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/submissions/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/535.TinyURL%20%E7%9A%84%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86/encode-and-decode-tinyurl.py) | Medium |
 | 617  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/617.%20合并二叉树/merge-two-binary-trees.py) | Easy   |
 | 657  | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | [python](https://github.com/henryxzx/leetcode_python/blob/master/657.%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E5%90%A6%E8%BF%94%E5%9B%9E%E5%8E%9F%E7%82%B9/robot.py) | Easy   |
